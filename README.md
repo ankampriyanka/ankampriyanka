@@ -10,9 +10,7 @@ My current focus is on **building trustworthy AI through governance, assurance, 
 
 ## About Me
 
-My work sits at the intersection of: 
-
-**AI Governance × Responsible AI × AI Security × AI Assurance × Applied AI**
+My work sits at the intersection of:   **AI Governance × Responsible AI × AI Security × AI Assurance × Applied AI**
 
 I focus on translating AI risk principles into practical frameworks, lifecycle controls, evaluation methodologies and evidence-based assurance practices.
 
